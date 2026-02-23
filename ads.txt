@@ -270,6 +270,46 @@ videoheroes.tv, 212690, RESELLER, 064bc410192443d8
 #Pubmatic
 pubmatic.com, 166218, DIRECT, 5d62403b186f2ace
 
+#SmartyAds
+smartyads.com, 300214, DIRECT, fd2bde0ff2e62c5d
+adform.com, 2795, RESELLER
+pubmatic.com, 161970, RESELLER, 5d62403b186f2ace
+improvedigital.com, 2345, DIRECT
+axonix.com, 56051, RESELLER
+adyoulike.com, 2a3352a12f5fdb64b653c9ade1e3b0fe, RESELLER
+appnexus.com, 16244, RESELLER
+pubmatic.com, 166835, DIRECT, 5d62403b186f2ace
+inmobi.com, b79d5987dbf54dbf993bb6828c10ac21, RESELLER, 83e75a7ae333ca9d
+lunamedia.io, d8b17846-4948-40e5-ac64-213a541dbddf, RESELLER, 524ecb396915caaf
+aetherxad.com, 32281290, DIRECT
+adsinteractive.com, 384279453, RESELLER
+bematterfull.com, 833800387, DIRECT
+pubmatic.com, 161970, RESELLER, 5d62403b186f2ace
+improvedigital.com, 2345, DIRECT
+adform.com, 2795, RESELLER
+axonix.com, 56051, RESELLER
+adyoulike.com, 2a3352a12f5fdb64b653c9ade1e3b0fe, RESELLER
+snack-media.com, SNM_4481, DIRECT
+freewheel.tv, 536118-r-523319, RESELLER
+pubmatic.com, 160628, RESELLER
+appnexus.com, 16244, RESELLER
+pubmatic.com, 166835, DIRECT, 5d62403b186f2ace
+inmobi.com, b79d5987dbf54dbf993bb6828c10ac21, RESELLER, 83e75a7ae333ca9d
+freewheel.tv, 536152-r-524565, RESELLER
+freewheel.tv, 536152-r-523319, RESELLER
+lunamedia.io, d8b17846-4948-40e5-ac64-213a541dbddf, RESELLER, 524ecb396915caaf
+freewheel.tv, 536118-r-524565, RESELLER
+aetherxad.com, 32281290, DIRECT
+adsinteractive.com, 384279453, RESELLER
+pubmatic.com, 161970, RESELLER, 5d62403b186f2ace
+improvedigital.com, 2345, DIRECT
+adyoulike.com, 2a3352a12f5fdb64b653c9ade1e3b0fe, RESELLER
+axonix.com, 56051, RESELLER
+appnexus.com, 16244, RESELLER
+pubmatic.com, 166835, DIRECT, 5d62403b186f2ace
+inmobi.com, b79d5987dbf54dbf993bb6828c10ac21, RESELLER, 83e75a7ae333ca9d
+adform.com, 2795, RESELLER
+
 #
 adagio.io, 1237, DIRECT
 adipolo.com, 22959176786, DIRECT

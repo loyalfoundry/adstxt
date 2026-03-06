@@ -25,6 +25,17 @@ e-planning.net,1bf7b5d803f178c4,RESELLER,c1ba615865ed87b2
 video.unrulymedia.com, 645663965, RESELLER
 contextweb.com, 561516, RESELLER, 89ff185a4c4e857c
 
+#Admatic
+admatic.de, ade-pub-2937530032, DIRECT
+netaddiction.it, 2022, RESELLER
+criteo.com, B-064389, RESELLER, 9fac4a4a87c2a44f
+themediagrid.com, BIH5U6, RESELLER, 35d5010d7789b49d
+openx.com, 541163168, RESELLER, 6a698e2ec38604c6
+openx.com, 540717821, RESELLER, 6a698e2ec38604c6
+outbrain.com, 0052a42837b505f8ee68b4559b35c4d4d7, RESELLER
+rtbhouse.com, f2PMUrbTLheS4d67McTq, RESELLER, 4f3b94578e85950c
+rtbhouse.com, Bl90aHDHpnUdxORfqhhI, RESELLER, 4f3b94578e85950c
+adform.com, 3240, RESELLER
 #Admixer
 admixer.net, 214, RESELLER
 

@@ -1,5 +1,5 @@
 #app-ads.txt Loyal 
-#03.06.26 v1
+#03.09.26 v1
 ownerdomain=loyal.app
 
 #33Across
@@ -310,6 +310,12 @@ videoheroes.tv, 212690, RESELLER, 064bc410192443d8
 
 #Pubmatic
 pubmatic.com, 166218, DIRECT, 5d62403b186f2ace
+
+#RevContent
+revcontent.com, 200397, DIRECT
+Pubmatic.com, 160835, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 24588, RESELLER, 0bfd66d529a55807
+smartadserver.com, 4531, RESELLER, 060d053dcf45cbf3
 
 #SmartyAds
 smartyads.com, 300214, DIRECT, fd2bde0ff2e62c5d

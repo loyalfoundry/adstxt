@@ -1,5 +1,5 @@
 #app-ads.txt Loyal 
-#03.11.26 v1
+#03.18.26 v1
 ownerdomain=loyal.app
 
 #33Across
@@ -114,7 +114,45 @@ mobupps.com, c74d97b01eae257e44aa9d5bade97baf33212, RESELLER
 
 #Cuedart
 cuedart.com, 326042526, RESELLER
+33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
+adapex.io, s4948, RESELLER
+adgrid.io, 33345, RESELLER
+contextweb.com ,562615,RESELLER,89ff185a4c4e857c
+criteo.com, B-070724, RESELLER, 9fac4a4a87c2a44f
+criteo.com,B-059856,RESELLER,9fac4a4a87c2a44f
+cuedart.com, 326042526, RESELLER
+ergadx.com, 5228, DIRECT
+freewheel.tv, 535664-r-523319, RESELLER
+inmobi.com, 94b8345847224537a5416d397b89209c, RESELLER, 83e75a7ae333ca9d
+inmobi.com, 9e311c7a68e94888aac7fbb4272381e2, RESELLER, 83e75a7ae333ca9d
+inmobi.com, a465db258ac44b2abb4e100fa019be3c, RESELLER, 83e75a7ae333ca9d
+krushmedia.com, AJxF6R572a9M6CaTvK, RESELLER
+lijit.com, 259022, RESELLER, fafdf38b16bf6b2b
+lijit.com, 503707, RESELLER, fafdf38b16bf6b2b
+media.net, 8CU12AQ1Y, RESELLER
 Media.net, 8CU7CM26N, RESELLER
+nativo.com, 6072, RESELLER, 59521ca7cc5e9fee
+openx.com, 537140488, RESELLER, 6a698e2ec38604c6
+Pubmatic.com, 160881, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 162147, RESELLER, 5d62403b186f2ace
+pubmatic.com, 164532, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165750, RESELLER, 5d62403b186f2ace
+pubsmart.ai, Pbsmt789, RESELLER
+risecodes.com, 68078b24e1cc400001fd2b17, DIRECT
+rubiconproject.com, 22544, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 23102, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26292, RESELLER, 0bfd66d529a55807
+sharethrough.com, bXzzb1bR, RESELLER, d53b998a7bd4ecd2
+smaato.com, 1100059375, RESELLER, 07bcf65f187117b4
+smartadserver.com, 4284, RESELLER
+sonobi.com, 4a289cdd79, RESELLER, d1a215d9eb5aee9e
+themediagrid.com, LMF4E8, RESELLER, 35d5010d7789b49d
+triplelift.com, 12465, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 169764768, RESELLER
+video.unrulymedia.com, 685555114, RESELLER
+video.unrulymedia.com, 7940164981947873119, RESELLER
+xandr.com, 15840, RESELLER
+zetaglobal.net, 562, RESELLER
 
 #Epsilon
 conversantmedia.com, 100097, RESELLER, 03113cd04947736d

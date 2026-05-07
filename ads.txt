@@ -3495,3 +3495,4 @@ zetaglobal.net,757,RESELLER
 zmaticoo.com,5135224,RESELLER
 zoomd.com,88478941,RESELLER
 03113cd04947736dssp.e-volution.ai, AJxF6R378a9M6CaTvK
+vungle.com, 61878a57819eb90018662b5c, DIRECT, c107d686becd2d77

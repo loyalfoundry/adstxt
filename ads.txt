@@ -1,5 +1,5 @@
 #app-ads.txt Loyal 
-#05.01.26 v1
+#05.11.26 v1
 ownerdomain=loyal.app
 
 #33Across
@@ -1775,6 +1775,9 @@ bluexad.ai, 2001235160242065408, RESELLER
 vidazoo.com, 699c3632f07111e90e359d43, RESELLER, b6ada874b4d7d0b2
 nextmillennium.io, 17219, RESELLER, 65bd090fa4a1e3d6
 admagnetix.io, 202141, RESELLER
+
+#PPC.BUZZ
+ppc.buzz, b7b16ecf8ca53723593894116071700c37034, DIRECT.BUZZ
 
 #Pubmatic
 pubmatic.com, 166218, DIRECT, 5d62403b186f2ace

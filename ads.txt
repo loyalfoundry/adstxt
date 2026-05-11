@@ -1777,7 +1777,7 @@ nextmillennium.io, 17219, RESELLER, 65bd090fa4a1e3d6
 admagnetix.io, 202141, RESELLER
 
 #PPC.BUZZ
-ppc.buzz, b7b16ecf8ca53723593894116071700c37034, DIRECT.BUZZ
+ppc.buzz, b7b16ecf8ca53723593894116071700c37034, DIRECT
 
 #Pubmatic
 pubmatic.com, 166218, DIRECT, 5d62403b186f2ace

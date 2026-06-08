@@ -99,7 +99,7 @@ These are the conventions enforced during the May 2026 cleanup. Apply them to an
 10. **Variable lines come first**, immediately after the file header comments. Currently:
     ```
     #app-ads.txt Loyal
-    #05.01.26 v1
+    #05.19.26 v1
     ownerdomain=loyal.app
     contact=support@loyal.app
     ```
@@ -233,6 +233,34 @@ After merging to `master`, also run the file through:
 - adstxt.guru (free): https://adstxt.guru/
 
 These catch subtle issues the awk scripts miss (e.g. duplicate variable lines, unknown variable names).
+
+## Deployment Instructions (Webflow)
+
+1. Go to [editor](https://loyal--app.design.webflow.com/?mode=edit) and replace the "Loyal ads.txt" file by deleting the existing one and uploading the new file.
+2. Copy asset URL to clipboard.
+3. Go to [Site Settings](https://webflow.com/dashboard/sites/loyal--app/general) > [Publishing](https://webflow.com/dashboard/sites/loyal--app/publishing)
+4. Delete path for `/app-ads.txt`
+5. Delete path for `/ads.txt`
+6. **Publish** the site
+7. Test: `curl -sL https://www.loyal.app/ads.txt | grep 546926726`
+
+## Fetch the current production version
+
+```bash
+curl -L https://www.loyal.app/ads.txt -o "./logs/$(date +%Y-%m-%d)-ads.txt"
+```
+
+## Check for changes
+
+```bash
+colordiff -u logs/$(date +%Y-%m-%d)-ads.txt "Loyal ads.txt"
+```
+
+## Getting Started
+
+```bash
+brew install colordiff
+```
 
 ## Hosting
 

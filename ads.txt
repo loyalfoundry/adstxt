@@ -1,5 +1,5 @@
 #app-ads.txt Loyal 
-#06.24.26 v1
+#07.09.26 v1
 ownerdomain=loyal.app
 
 #33Across
@@ -181,6 +181,19 @@ inmobi.com, 791b84bdd791470faa8dca5f04e6a83b, RESELLER, 83e75a7ae333ca9d
 media.net, 8CUF63MX7, RESELLER 
 trustedstack.com, TS3MF8KJ3, RESELLER 
 lunamedia.io, 1yoxx3u24n2zgmg3fqgxniuwcg9qww5a, RESELLER, 524ecb396915caaf
+
+#Bidnex
+flat-ads.com, 2211000, DIRECT
+bidnex.com, 2211000, DIRECT
+pubmatic.com, 167127, RESELLER, 5d62403b186f2ace
+rubiconproject.com,28299,RESELLER,0bfd66d529a55807
+anzu.io, 6a2a775b38d14281b41b2e6b, RESELLER, 1c1b7acf4992136c
+pubnative.net, 1016755, RESELLER, d641df8625486a7b
+display.io, 227787, RESELLER
+admatic.de, ade-pub-6376670336, RESELLER
+netaddiction.it, 2036, RESELLER
+escalax.io,152, reseller
+acexchange.co.kr, 1624157476, RESELLER
 
 #cas.ai
 cas.ai, 3d8e1892, DIRECT

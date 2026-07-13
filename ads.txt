@@ -1,5 +1,5 @@
 #app-ads.txt Loyal 
-#07.09.26 v1
+#07.13.26 v1
 ownerdomain=loyal.app
 
 #33Across
@@ -2427,6 +2427,9 @@ ppc.buzz, b7b16ecf8ca53723593894116071700c37034, DIRECT
 
 #Pubmatic
 pubmatic.com, 166218, DIRECT, 5d62403b186f2ace
+
+#Redmob
+redmob.io, 20260713000001, DIRECT
 
 #RevContent
 revcontent.com, 200397, DIRECT

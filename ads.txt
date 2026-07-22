@@ -1,5 +1,5 @@
 #app-ads.txt Loyal 
-#07.13.26 v1
+#07.22.26 v1
 ownerdomain=loyal.app
 
 #33Across
@@ -99,16 +99,18 @@ appnexus.com, 15825, RESELLER, f5ab79cb980f11d1
 
 #Aniview
 aniview.com, 6a0c0b05008ff701e60d1495, DIRECT, 78b21b97965ec3f8
-pubmatic.com, 160993, RESELLER, 5d62403b186f2ace
-openx.com, 557739593, RESELLER, 6a698e2ec38604c6
-pubmatic.com, 166672, RESELLER, 5d62403b186f2ace
-media.net, 8CU322PTV, RESELLER, 818f58666cabc936
-sharethrough.com, 4255, RESELLER, d53b998a7bd4ecd2
-Zetaglobal.net, 576, RESELLER
-video.unrulymedia.com, 3350674472, RESELLER, 98c21ef9a666c68b
-smartadserver.com, 4255, RESELLER, 060d053dcf45cbf3
-inmobi.com, 155796dfff86494e9b375346a748e8eb, RESELLER, 83e75a7ae333ca9d
 adagio.io, 1303, RESELLER
+inmobi.com, 155796dfff86494e9b375346a748e8eb, RESELLER, 83e75a7ae333ca9d
+media.net, 8CU322PTV, RESELLER, 818f58666cabc936
+openx.com, 540862677, RESELLER, 6a698e2ec38604c6
+openx.com, 557739593, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 160993, RESELLER, 5d62403b186f2ace
+pubmatic.com, 166672, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 13918, RESELLER, 0bfd66d529a55807
+sharethrough.com, 4255, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 4255, RESELLER, 060d053dcf45cbf3
+video.unrulymedia.com, 3350674472, RESELLER, 98c21ef9a666c68b
+Zetaglobal.net, 576, RESELLER
 
 #AppLovin
 applovin.com, fbd13b99eb832161ed2a5aaa47c24ae3, DIRECT

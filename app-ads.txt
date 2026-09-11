@@ -274,6 +274,9 @@ yahoo.com, 55771, RESELLER, e1a5b5b6e3255540
 #Illumin
 admanmedia.com, 2294, DIRECT
 
+#Improve Digital
+improvedigital.com, 2945, DIRECT 
+
 #InMobi
 inmobi.com, cd36a491acc4404fa9633a5f5bd40dec, DIRECT, 83e75a7ae333ca9d
 mintegral.com, 10003, RESELLER

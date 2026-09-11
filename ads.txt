@@ -1,5 +1,5 @@
 #app-ads.txt Loyal 
-#09.1.26 v1
+#09.11.26 v1
 ownerdomain=loyal.app
 
 #33Across
@@ -273,6 +273,9 @@ yahoo.com, 55771, RESELLER, e1a5b5b6e3255540
 
 #Illumin
 admanmedia.com, 2294, DIRECT
+
+#Improve Digital
+improvedigital.com, 2945, DIRECT 
 
 #InMobi
 inmobi.com, cd36a491acc4404fa9633a5f5bd40dec, DIRECT, 83e75a7ae333ca9d

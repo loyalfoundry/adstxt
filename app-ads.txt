@@ -1,5 +1,5 @@
 #app-ads.txt Loyal 
-#09.11.26 v1
+#09.16.26 v1
 ownerdomain=loyal.app
 
 #33Across
@@ -111,6 +111,9 @@ sharethrough.com, 4255, RESELLER, d53b998a7bd4ecd2
 smartadserver.com, 4255, RESELLER, 060d053dcf45cbf3
 video.unrulymedia.com, 3350674472, RESELLER, 98c21ef9a666c68b
 Zetaglobal.net, 576, RESELLER
+
+#Azurion
+improvedigital.com, 2945, DIRECT
 
 #AppLovin
 applovin.com, fbd13b99eb832161ed2a5aaa47c24ae3, DIRECT
@@ -1402,6 +1405,9 @@ appnexus.com, 8106, RESELLER
 video.unrulymedia.com, 5921144960123684292, RESELLER
 themediagrid.com, OD62J8, RESELLER, 9fac4a4a87c2a44f
 pubmatic.com, 165708, RESELLER, 5d62403b186f2ace
+
+#Magnite
+rubiconproject.com, 28887, DIRECT, 0bfd66d529a55807
 
 #  
 adbite.com, 596, RESELLER

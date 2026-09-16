@@ -1,5 +1,5 @@
 #app-ads.txt Loyal 
-#09.11.26 v1
+#09.16.26 v1
 ownerdomain=loyal.app
 
 #33Across

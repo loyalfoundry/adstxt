@@ -150,6 +150,9 @@ xandr.com, 14082, RESELLER
 yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 zmaticoo.com, 5135655, RESELLER
 
+#Azerion
+improvedigital.com, 2945, DIRECT
+
 #BeMatterful
 bematterfull.com, 300281990079, DIRECT
 video.unrulymedia.com, 7418256711870870085, RESELLER
@@ -1372,6 +1375,9 @@ consumable.com, 2001419, RESELLER, aefcd3d2f45b5070
 conversantmedia.com, 100455, RESELLER, 03113cd04947736d
 twist.win, TW2400003, RESELLER
 e-planning.net, bce51a8513581788, RESELLER, c1ba615865ed87b2
+
+#Magnite
+rubiconproject.com, 28887, DIRECT, 0bfd66d529a55807
 
 #PubRevPlus
 pubrevplus.com, 125125011201, DIRECT

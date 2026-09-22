@@ -1,5 +1,5 @@
 #app-ads.txt Loyal 
-#09.16.26 v1
+#09.22.26 v1
 ownerdomain=loyal.app
 
 #33Across
@@ -202,6 +202,7 @@ acexchange.co.kr, 1624157476, RESELLER
 
 #cas.ai
 cas.ai, 3d8e1892, DIRECT
+rtbhouse.com, 0JBassv1FjnNsC26dGmc, RESELLER, 4f3b94578e85950c
 anzu.io,692eb33fa6edabbaaff0b103,RESELLER,1c1b7acf4992136c
 pubmatic.com, 163753, RESELLER, 5d62403b186f2ace
 lumeriq.net 111327 RESELLER

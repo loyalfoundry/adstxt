@@ -1,5 +1,5 @@
 #app-ads.txt Loyal 
-#09.22.26 v1
+#09.29.26 v1
 ownerdomain=loyal.app
 
 #33Across
@@ -276,6 +276,7 @@ openx.com, 537140488, RESELLER, 6a698e2ec38604c6
 nativo.com, 6072, RESELLER, 59521ca7cc5e9fee
 
 #Epsilon
+conversantmedia.com, 100903, DIRECT, 03113cd04947736d
 conversantmedia.com, 100097, RESELLER, 03113cd04947736d
 conversantmedia.com, 100659, RESELLER, 03113cd04947736d
 conversantmedia.com, 100660, RESELLER, 03113cd04947736d

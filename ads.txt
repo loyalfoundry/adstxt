@@ -1439,6 +1439,7 @@ pubmatic.com, 165708, RESELLER, 5d62403b186f2ace
 
 #Verve
 smaato.com, 1100060146, DIRECT, 07bcf65f187117b4
+smaato.com, 1100060555, DIRECT, 07bcf65f187117b4
 
 #  
 adbite.com, 596, RESELLER
